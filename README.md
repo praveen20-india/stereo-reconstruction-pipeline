@@ -1,4 +1,4 @@
- Fundamental Matrix Estimation and 3D Reconstruction
+## Fundamental Matrix Estimation and 3D Reconstruction
 
 A comprehensive implementation of multi-view geometry algorithms for estimating epipolar geometry from point correspondences, recovering camera pose, and performing 3D scene reconstruction. The project implements the normalized 8-point algorithm, essential matrix decomposition, linear triangulation, and includes a systematic evaluation of estimation robustness under noise.
 
