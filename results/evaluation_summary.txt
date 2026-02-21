@@ -1,0 +1,33 @@
+Multi-View Geometry - Evaluation Summary
+==================================================
+
+Number of point correspondences: 20
+Noise level (sigma): 1.0 pixels
+Normalization sensitivity trials: 100
+
+Fundamental Matrix Estimation
+----------------------------------------
+Frobenius error |F_analytical - F_computed|: 2.000230
+Condition number of F: 2619384121340471296.00
+Rank of computed F: 2
+
+Epipole Locations (SVD method)
+----------------------------------------
+Epipole 1: (1.1696, 153.2500)
+Epipole 2: (444.3328, -43.1361)
+
+Triangulation Quality
+----------------------------------------
+Mean reprojection error (Camera 1): 0.000000 pixels
+Mean reprojection error (Camera 2): 0.000000 pixels
+Mean 3D reconstruction error: 0.000010
+
+Sampson Distance
+----------------------------------------
+Mean: 0.30630676
+Max:  3.38213992
+
+Point-to-Epipolar-Line Distance
+----------------------------------------
+Mean (Image 1): 0.551222
+Mean (Image 2): 0.505212
